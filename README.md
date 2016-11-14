@@ -7,5 +7,11 @@ what is github?
 ### 2.1.1
 what is this
 ```c
-int i = 0;
+#include <stdio.h>
+int main()
+{
+  int i = 0;
+  
+  print("i = %d",i);
+  return 0;
 ```
